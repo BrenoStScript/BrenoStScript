@@ -3,7 +3,9 @@
 **`StScript`**
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | Cruzeiro do Sul Virtual
+
 💻 Em transição de carreira e desenvolvendo projetos focados em desenvolvimento web front-end
+
 🚀 Apaixonado por tecnologia, interfaces intuitivas e aprendizado contínuo
 
 Atualmente, busco consolidar meus conhecimentos por meio de projetos práticos, com foco em HTML, CSS, JavaScript e frameworks modernos. Tenho interesse especial em criar soluções que aliem usabilidade, acessibilidade e bom design.
